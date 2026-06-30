@@ -64,27 +64,6 @@ JSS Academy of Technical Education, Bangalore (2023–2027)
 
 ---
 
-## 🌟 Featured Projects
-
-### 🛒 GreenCart — Scalable MERN Grocery Platform
-
-* Built a production-ready MERN grocery platform with product search, cart, seller dashboard, and order management.
-* Optimized APIs using Redis caching and asynchronous order processing with RabbitMQ.
-* Integrated JWT Authentication, RBAC, Stripe Checkout, and Nodemailer.
-
-### 🎤 HireAI — AI Voice Interview Platform
-
-* Built an AI-powered mock interview platform using Next.js, Vapi, Supabase, and Gemini API.
-* Conducts real-time voice interviews and generates structured candidate feedback.
-* 🏆 **Top 5 Finalist** at Pragyan 2025 Ideathon.
-
-### 📄 AskDocs (RAG)
-
-* Developed a Retrieval-Augmented Generation system using LangChain and Pinecone.
-* Performs semantic document retrieval before generating AI responses.
-
----
-
 ## 🏆 Achievements
 
 * 🥇 Top 5 Finalist – Pragyan 2025 Ideathon
