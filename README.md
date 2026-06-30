@@ -13,7 +13,7 @@ JSS Academy of Technical Education, Bangalore (2023–2027)
 * 💻 Passionate about building **Full Stack** and **AI-powered** applications that solve real-world problems.
 * 🌱 Currently learning **System Design, PostgreSQL, Docker, AWS, and CI/CD** while strengthening my backend engineering skills.
 * 🤖 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), LLMs, and scalable backend architectures.**
-* 🧩 Solved **200+ LeetCode** problems and enjoy designing efficient, production-ready software.
+* 🧩 Solved **250+ LeetCode** problems and enjoy designing efficient, production-ready software.
 
 ---
 
